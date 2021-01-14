@@ -1,0 +1,83 @@
+span {
+  color: #f3d270;
+}
+
+hr {
+  margin-top: -3px;
+
+  border: #f3d270;
+}
+
+.jum .jumbotron {
+  background-image: url('../img/img/3.jpg');
+  background-size: cover;
+}
+
+.jumbotron h2 {
+  font-family: 'Lora';
+}
+
+.jumbotron form {
+  height: 330px;
+  width: 300px;
+  background-color: #f5f5f5;
+  padding: 10px;
+}
+
+form h3 {
+  color: #65284c;
+}
+
+form input {
+  margin-top: 5px;
+}
+
+.form-group a {
+  margin-top: 10px;
+  width: 200px;
+}
+
+.foto h2 {
+  margin-bottom: 40px;
+  margin-top: 40px;
+  font-family: 'Lora';
+  color: #81286d;
+}
+
+.kuning .jumbotron h2 {
+  margin-bottom: 40px;
+}
+
+.kuning .jumbotron {
+  height: 400px;
+  background-color: #f3d270;
+}
+
+.and {
+  margin-bottom: 50px;
+  font-family: 'Lora';
+
+}
+
+.and h2 {
+  color: #81286d;
+  margin-bottom: -20px;
+}
+
+.and h4 {
+  margin-top: 100px;
+  color: #81286d;
+}
+
+h4 {
+  color: #81286d;
+}
+
+h5,
+h3 {
+  font-family: 'Lora';
+}
+
+.footer {
+  background-color: #f0f0f0;
+}
